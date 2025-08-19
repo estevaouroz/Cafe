@@ -15,7 +15,6 @@ html {
     padding: 0;
     border: none;
     text-decoration: none;
-    text-transform: capitalize;
     outline: none;
     transition: 0.2s linear;
     font-family: "Roboto", sans-serif;
